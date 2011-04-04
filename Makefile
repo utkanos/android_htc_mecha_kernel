@@ -1,7 +1,7 @@
 VERSION = 2
 PATCHLEVEL = 6
 SUBLEVEL = 32
-EXTRAVERSION = .21-utkanos
+EXTRAVERSION = .21-utkanos-
 NAME = Man-Eating Seals of Antiquity
 
 # *DOCUMENTATION*
